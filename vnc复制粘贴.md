@@ -6,4 +6,5 @@
 > siji32@mtf-lane-test:~$ ps -ef | grep vncconfig  
 siji32    74937  94574  0 03:17 pts/22   00:00:00 vncconfig -nowin
 
-**在VNC Viewer设置里没有开启允许输入**
+**在VNC Viewer界面设置开启允许输入**
+![](https://github.com/crl608/123/blob/master/vnc粘贴配置.png)
